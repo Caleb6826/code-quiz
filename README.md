@@ -1,1 +1,1 @@
-# code-quiz
+In this coding quiz the user is presented with a start quiz button, once the button is pressed queations and choices pop up along with the start of the timer, if answered wrong time is takn off if correct it presents the next question when done user is given a prompt to enter initals for highscore and can look at other highscores or clear the entire list.
